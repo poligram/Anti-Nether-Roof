@@ -1,0 +1,5 @@
+name: AntiNetherRoof
+version: ${project.version}
+main: poligram.antinetherroof.AntiNetherRoof
+authors: [poligram]
+description: Stops you from getting on the nether roof
